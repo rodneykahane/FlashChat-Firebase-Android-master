@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "224756338306",
-    "firebase_url": "https://flashchatandroid-4aafc.firebaseio.com",
-    "project_id": "flashchatandroid-4aafc",
-    "storage_bucket": "flashchatandroid-4aafc.appspot.com"
+    "project_number": "583958842896",
+    "firebase_url": "https://flashchat-android-5b065.firebaseio.com",
+    "project_id": "flashchat-android-5b065",
+    "storage_bucket": "flashchat-android-5b065.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:224756338306:android:0cd79983bb296af8",
+        "mobilesdk_app_id": "1:583958842896:android:0cd79983bb296af8",
         "android_client_info": {
           "package_name": "com.aaclogic.flashchatnewfirebase"
         }
       },
       "oauth_client": [
         {
-          "client_id": "224756338306-nb8u7ivkklldafhhrcftn4fpiltpc6vh.apps.googleusercontent.com",
+          "client_id": "583958842896-p5a9535nkildm848fts86mck34o399u7.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAMzbzbyP5zmKFTwadvBDjzuNJ_3bbqXHo"
+          "current_key": "AIzaSyCortt5qkGIeZoA_a1uMQdUHTVr5H6njsY"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "224756338306-nb8u7ivkklldafhhrcftn4fpiltpc6vh.apps.googleusercontent.com",
+              "client_id": "583958842896-p5a9535nkildm848fts86mck34o399u7.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
